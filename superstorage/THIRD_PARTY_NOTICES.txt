@@ -1,0 +1,7 @@
+SuperStorage includes the following third-party software:
+
+FlatLaf - Flat Look and Feel
+Copyright (c) FormDev Software GmbH
+Licensed under the Apache License, Version 2.0
+https://github.com/JFormDesigner/FlatLaf
+https://www.apache.org/licenses/LICENSE-2.0
